@@ -4,7 +4,8 @@
 - 📌 I'm a **Backend Engineer.**
 - 🌱 I’m currently learning everything and finding a playground 🏂 to improve my programming skills 👨‍💻.
 - 💬 Ask me about **Coding**, **Movie**, **Football**, **Music** and **Games**
-- 📫 How to reach me 
+- 📫 How to reach me
+<br>
 [<img align="left" alt="pebruwantoro.doni@gmail.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/email/email.svg" />][email]
 [<img align="left" alt="Doni Pebruwantoro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br/>
@@ -52,8 +53,8 @@ _***Currently(and future) Learning:***_
 			<div class="wrap">
 				<div style="margin: 10px 5px;">
 					<p align="left">
-						<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/echo/echo-original.svg" alt="echo" width="40" height="40"/>
-						<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/>
+						<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+						<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 						<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 						<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> -->
 					</p>
