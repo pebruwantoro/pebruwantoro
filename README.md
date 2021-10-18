@@ -4,11 +4,7 @@
 - 📌 I'm a **Backend Engineer.**
 - 🌱 I’m currently learning everything and finding a playground 🏂 to improve my programming skills 👨‍💻.
 - 💬 Ask me about **Coding**, **Movie**, **Football**, **Music** and **Games**
-- 📫 How to reach me
-<br>
-[<img align="left" alt="pebruwantoro.doni@gmail.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/email/email.svg" />][email]
-[<img align="left" alt="Doni Pebruwantoro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br/>
+- 📫 How to reach me : ✉️ pebruwantoro.doni@gmail.com
 - ⚡ Fun Facts **I'm an aquarians, that love Manchester United even if MU never got Champions again since Sir Alex retired. I've graduate as a Bachelor of Fisheries 😅😂.
 
 <br/> 
