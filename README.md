@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything and finding a playground 🏂 to improve my programming skills 👨‍💻.
 - 💬 Ask me about **Coding**, **Movie**, **Football**, **Music** and **Games**
 - 📫 How to reach me : ✉️ pebruwantoro.doni@gmail.com
-- ⚡ Fun Facts **I'm an aquarians, that love Manchester United even if MU never got Champions again since Sir Alex retired. I've graduate as a Bachelor of Fisheries 😅😂.
+- ⚡ Fun Facts **I'm an aquarians, that love Manchester United even if MU never got Champions again since Sir Alex retired. I've graduate as a Bachelor of Fisheries 😅😂.**
 
 <br/> 
 
@@ -52,7 +52,7 @@ _***Currently(and future) Learning:***_
 						<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
 						<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 						<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-						<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> -->
+						<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 					</p>
 				</div>
 			</div>
