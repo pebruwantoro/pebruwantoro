@@ -51,9 +51,17 @@ _***Currently(and future) Learning:***_
 					<p align="left">
 						<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
 						<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+						<img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="laravel" width="40" height="40"/>
 						<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-						<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+						<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 						<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+						<img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" alt="grpc" width="40" height="40"/>
+						<img src="https://www.vectorlogo.zone/logos/jaegertracingio/jaegertracingio-ar21.svg" alt="jaeger" width="40" height="40"/>
+						<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
+						<img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="40" height="40"/>
+						<img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="40" height="40"/>
+						<img src="https://www.vectorlogo.zone/logos/curl_haxx/curl_haxx-ar21.svg" alt="curl" width="40" height="40"/>
+						<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="jira" width="40" height="40"/>
 					</p>
 				</div>
 			</div>
