@@ -2,9 +2,10 @@
 <p align="center" style="font-style: bold;">"Can't help stop falling in love with coding 😁👨‍💻."</p>
 
 - 📌 I'm a **Backend Engineer.**
-- 🌱 I’m currently learning everything and finding a playground 🏂 to improve my programming skills 👨‍💻.
+- 🌱 I’m currently a part of **eFishery** 👨‍💻.
 - 💬 Ask me about **Coding**, **Movie**, **Football**, **Music** and **Games**
 - 📫 How to reach me : ✉️ pebruwantoro.doni@gmail.com
+- LinkedIn: https://www.linkedin.com/in/doni-pebruwantoro-7bb145136/
 - ⚡ Fun Facts **I'm an aquarians, that love Manchester United even if MU never got Champions again since Sir Alex retired. I've graduate as a Bachelor of Fisheries 😅😂.**
 
 <br/> 
