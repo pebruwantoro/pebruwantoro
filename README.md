@@ -28,7 +28,7 @@
 <div align="center">
 
 📌 I'm a **Software Engineer** with a passion for crafting efficient backend systems and robust applications.<br>
-🌱 Currently honing my skills and contributing at **eFishery** 👨‍💻.<br>
+🌱 Currently honing my skills and contributing at **Bhumi Varta Technology** 👨‍💻.<br>
 💬 I’m happy to chat about **Coding**, **Movies**, **Football**, **Music**, and **Games**.<br>
 ⚡ **Fun Facts**: I'm an **Aquarian** and a loyal **Manchester United fan**. Graduated with a **Bachelor's in Fisheries** but found my true calling in tech 😅😂.
 
